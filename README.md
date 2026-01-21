@@ -17,6 +17,8 @@ Consultas SQL avançadas orientadas a regras de negócio
 
 O banco foi implementado em MySQL, com compatibilidade total com o MySQL Workbench.
 
+---
+
 🎯 Objetivos do Projeto
 
 Mapear um DER conceitual refinado para o modelo relacional
