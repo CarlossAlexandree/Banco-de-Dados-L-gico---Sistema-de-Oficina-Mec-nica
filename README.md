@@ -8,17 +8,17 @@
 
 O foco principal é aplicar, de forma integrada, os conceitos de:
 
-Modelagem Conceitual (DER)
+- Modelagem Conceitual (DER)
 
-Modelagem Lógica (Modelo Relacional)
+- Modelagem Lógica (Modelo Relacional)
 
-Implementação Física em SQL
+- Implementação Física em SQL
 
-Persistência de dados
+- Persistência de dados
 
-Consultas SQL avançadas orientadas a regras de negócio
+- Consultas SQL avançadas orientadas a regras de negócio
 
-O banco foi implementado em MySQL, com compatibilidade total com o MySQL Workbench.
+- O banco foi implementado em MySQL, com compatibilidade total com o MySQL Workbench.
 
 ---
 
