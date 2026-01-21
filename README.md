@@ -1,7 +1,10 @@
 # Banco de Dados Lógico - Sistema de Oficina Mecânica
-Banco de Dados Lógico para o cenário de uma oficina mecânica.
 
-📌 Este projeto apresenta a modelagem, implementação e consulta de um banco de dados relacional para o cenário de uma oficina mecânica, desenvolvido como parte de um desafio prático de modelagem de banco de dados.
+---
+
+📌 Banco de Dados Lógico para o cenário de uma oficina mecânica.
+
+- Este projeto apresenta a modelagem, implementação e consulta de um banco de dados relacional para o cenário de uma oficina mecânica, desenvolvido como parte de um desafio prático de modelagem de banco de dados.
 
 O foco principal é aplicar, de forma integrada, os conceitos de:
 
