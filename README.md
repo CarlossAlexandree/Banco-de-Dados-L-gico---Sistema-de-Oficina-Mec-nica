@@ -49,6 +49,8 @@ Funções de agregação (SUM, COUNT, AVG)
 
 Elaborar perguntas de negócio respondidas pelas consultas
 
+---
+
 🧱 Modelagem Conceitual (DER)
 
 O modelo conceitual foi desenvolvido para representar fielmente o funcionamento de uma oficina mecânica real, considerando clientes, veículos, ordens de serviço, serviços executados, peças utilizadas e funcionários envolvidos.
@@ -80,6 +82,8 @@ Ordem de Serviço ↔ Serviço (N:M)
 Ordem de Serviço ↔ Peça (N:M)
 
 Os relacionamentos N:M foram corretamente resolvidos por meio de tabelas associativas, seguindo boas práticas de modelagem relacional.
+
+---
 
 📌 O DER refinado serviu como base direta para a construção do esquema lógico.
 
@@ -113,6 +117,8 @@ O banco de dados é composto pelas seguintes tabelas:
 
 🔹 Estrutura normalizada
 
+---
+
 🧪 Persistência de Dados
 
 Foram criados comandos INSERT INTO para todas as tabelas, permitindo:
@@ -130,6 +136,8 @@ Os dados incluem:
 ✔️ Ordens de serviço em diferentes estados
 
 ✔️ Serviços e peças associados às ordens
+
+---
 
 🔍 Consultas SQL Desenvolvidas
 
@@ -161,6 +169,8 @@ As consultas SQL foram elaboradas para responder perguntas reais de negócio, co
 
 ✔️ Subqueries
 
+---
+
 🧠 Boas Práticas Aplicadas
 
 ✔️ Normalização do esquema
@@ -190,6 +200,8 @@ As consultas SQL foram elaboradas para responder perguntas reais de negócio, co
 - ✔️ Dados persistidos
 - ✔️ Queries avançadas desenvolvidas
 - ✔️ Projeto pronto para avaliação e portfólio
+
+- ---
 
 📌 Considerações Finais
 
