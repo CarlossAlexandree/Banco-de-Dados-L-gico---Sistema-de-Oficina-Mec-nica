@@ -183,11 +183,11 @@ As consultas SQL foram elaboradas para responder perguntas reais de negócio, co
 
 ✅ Status do Projeto
 
-✔️ Modelagem conceitual validada 
-✔️ Esquema lógico implementado
-✔️ Dados persistidos
-✔️ Queries avançadas desenvolvidas
-✔️ Projeto pronto para avaliação e portfólio
+- ✔️ Modelagem conceitual validada 
+- ✔️ Esquema lógico implementado
+- ✔️ Dados persistidos
+- ✔️ Queries avançadas desenvolvidas
+- ✔️ Projeto pronto para avaliação e portfólio
 
 📌 Considerações Finais
 
